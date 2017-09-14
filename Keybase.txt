@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/keasti
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://k-easti.tk
+  * I am keasti (https://keybase.io/keasti) on keybase.
+  * I have a public key with fingerprint 8171 9245 6BE7 75AD F904  A696 A10F C6FC 57F7 A149
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201c166b770aa73554c97177e4e4e58a4df357e51101ea96b451c710d4f605fe040a",
+      "fingerprint": "817192456be775adf904a696a10fc6fc57f7a149",
+      "host": "keybase.io",
+      "key_id": "a10fc6fc57f7a149",
+      "kid": "0101f4e6240515b8b058400dd757e1013113d2c1f731aeeda7304b21643afbfa85f60a",
+      "uid": "a9e6861e1d5434b022d084598905a019",
+      "username": "keasti"
+    },
+    "service": {
+      "hostname": "k-easti.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1505395026,
+  "expire_in": 157680000,
+  "prev": "21580d2865b9358462d10b8613293b7d1b2df831915a3f15da994288f3e5226d",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMNxAnicbVJtUFRVGF4SDDdIE0QJYfRaQwnSOffecz8WCcECoaYIhwEVWu7dey5c
+VnaX3buAgBVDDl8yjOQAMw3QYlNWSk5ikmFBITbq8DHjrBBkNYZBfPRBDYiMdZfi
+X+f8OHPe93me93nfefv81+j0Xq71/cvpC64kr+u9J526A5fKU0sJ0SodIQylhBmv
+PPiwhB2q0axIhIEAkATQBBlGZFkgCCyFEG3iWciymNYu4gRakinEYgQhgFjgGZFG
+0MRCINEyA5CMAQ0EIpKQFUsOttvsikXVZDnIQp6kESNilkWCJPOAFhieESCQTYxs
+QqzMCpDmNWKu1eFhaOZEwYGjFKsW0z7GFXv/g1/1DaBMY4akAYJI5ESAOBoASWI1
+r1qOgpCSSBOUWQoKGEtaZ4AWScjQlCCLssAhzb3Ht/PfOjxmOAZiKCGaokVAkhLg
+aMRzPEACgJ66Tge2W4R8vOJVcKgKcTSS0GKFigl7xurpYzW/awUQpZo1ns1uVa0m
+62EtnquqNofBw1OP2DzAIiwa/5MwiopF0maoMQqx3aFYLYQBakiTqng0IQKI4hEg
+mUgCF9sUOzYqHgRiGQ5ox1MHF2qSJEQckEiOQSJPaTNhSAkCUeuNInlKZCUokpLM
+UZCHSKBkiCSB52mS42QKI5JkJMLTVIHFqmlzmk8hR9N0KDkWQXXaMXH0q95Mb52X
+XrfW5yHPcun06zasrlzVtQ26i+479edfeufFH/ICul9oeuWpsP1poy0tw/q4nB+D
+r34Tf7a+rSejpWBb2SdfVCz3B98usT9cFDN0P5l49W5V6yPDe7Z/FrO+JuK4xW+R
+mPi9onbXXv+ulx/bWGTY39Y3nr6U08E4F9rP1SYY3x4MvchW1OGgyWxoHJ8cywyr
+6TudXTt9PzCrMv/x1oDfdJGX17hGIxMudKXEEmWLvYlXbteXFzs+HT60JTra2rn5
+0BXfdV8OontPt3X/0rM79WDjQFz1nRvubFPE3NaO2JHK8q6qhkAxKtz1U0Mlue3k
+TP98fPvYWKP72/kzhjfAm7VZz7w+XTp4KU/9vizdWn3NtnUm7SYXUuMarPK713jC
+GU/fuNW95NI/sa85fHn0fOtHZik/LTDhVkL4cxmFx5vakxfP+Z3K3rG5Th/33gLz
+4N3qq3+MFM0cM0/+OrslYG3NwPsZQV+3jy0tng4d+jDGu/k1/+Y/Y6ofJc+GTd11
+VzTl/jzu91ZwygnvqszPqw6k0otTzjrq8rEE744Sd0+Ub1/8mU3d6Rl6pa14bGq6
+0Ks1qGg2NyBksiR8oGlnZ+fu9nEz/8Ep3Vw9Z0pK8pmz6p8tL0hJvJ4X8rcPHaGf
+COvZWJEJot1xRHLD6JDt+V7FsdN5IXbW70Fx6MC8sX8kdMem7R+reyKSCm76Jua2
+7evL++7ghL1A6f4r68l/ACgvuy8=
+=ShOJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/keasti
+
+==================================================================
